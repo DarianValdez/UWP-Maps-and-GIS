@@ -1,0 +1,2 @@
+MainPackage=C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\bin\x86\Release\OfflineMaps_2.0.0.0_x86.appx
+SymbolPackage=C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\AppPackages\OfflineMaps_2.0.0.0_Test\OfflineMaps_2.0.0.0_x86.appxsym

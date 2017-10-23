@@ -1,0 +1,14 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OfflineMaps.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Grid="using:Telerik.UI.Xaml.Controls.Grid"
+    xmlns:Data="using:Telerik.UI.Xaml.Controls.Data"
+    x:Class="OfflineMaps.Views.DatabaseView"
+    mc:Ignorable="d" Width="1284" Height="612.2">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    </Grid>
+</Page>

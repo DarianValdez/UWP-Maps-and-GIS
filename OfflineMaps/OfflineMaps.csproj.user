@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</Source>
+    <SmallTileSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</SmallTileSource>
+    <MediumTileSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</MediumTileSource>
+    <WideTileSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</WideTileSource>
+    <LargeTileSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</LargeTileSource>
+    <AppIconSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</AppIconSource>
+    <SplashScreenSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\DELL-USER\Documents\Visual Studio 2017\Projects\OfflineMaps\OfflineMaps\Assets\MapOriginal.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>
